@@ -5,38 +5,132 @@
 - **여행자**: Jooyoung Lee
 - **여행 기간**: 2026-06-26 (금) ~ 2026-07-28 (화) [32박 33일]
 - **확정 도시**: 런던, 파리, 뮌헨 (+ 추가 도시 미정)
-- **여행 스타일**: TBD
 
 ## 확정 일정 프레임
 
 | 구간 | 날짜 | 도시 | 비고 |
 |------|------|------|------|
 | 도착 | 6/26 (금) | 런던 도착 17:20 | KE 907 |
-| 런던 | 6/26 ~ 7/7 | 런던 | 약 11일 |
-| 이동 | 7/7 (화) 18:01 | 런던 → 파리 | 유로스타 |
+| 런던 자유 | 6/26 ~ 7/2 | 런던 | 7일, 개인 일정 |
+| 런던 답사 | 7/3 ~ 7/7 | 런던 (엄마 동행) | IAPS 건축 답사, 5일 |
+| 이동 | 7/7 (화) 18:01 | 런던 → 파리 | 유로스타 (답사 조기 이탈) |
 | 파리~ | 7/7 (화) 21:29 | 파리 도착 | |
-| ... | 7/8 ~ 7/27 | 파리 + ? + 뮌헨 | 약 20일, 세부 미정 |
+| 미정 | 7/8 ~ 7/27 | 파리 + ? + 뮌헨 | 약 20일, 세부 미정 |
 | 귀국 | 7/28 (화) | 뮌헨 → 파리 → 인천 | KE 6458 → KE 5902 |
+
+---
 
 ## Day-by-Day Plan
 
-### Day 1 - 2026-06-26 (금) | 런던
+### Day 1 - 2026-06-26 (금) | 런던 도착
 - [x] KE 907 인천 10:55 출발
 - [ ] 런던 히드로 17:20 도착
 - [ ] 숙소 이동 & 체크인
 
-### Day 2~12 - 2026-06-27 ~ 2026-07-07 | 런던
-_런던 세부 일정 미정_
+### Day 2~7 - 2026-06-27 ~ 2026-07-02 | 런던 (개인)
+_런던 자유 일정 미정_
 
-### Day 12 - 2026-07-07 (화) | 런던 → 파리
-- [ ] 런던 자유시간 (오전~오후)
-- [ ] (!) 16:46 St Pancras 역 도착
-- [ ] 18:01 유로스타 출발
-- [ ] 21:29 Paris Gare du Nord 도착
-- [ ] 파리 숙소 이동 & 체크인
+---
+
+## IAPS 2026 런던 건축 답사 (엄마 동행)
+> 한국실내디자인학회 주관 | 숙소: Premier Inn London St Pancras (88 Euston Rd, NW1 2RA)
+
+### Day 8 - 2026-07-03 (금) | 답사 Day 1: King's Cross 산업유산
+**테마**: 산업유산 적응재사용 · 현대 공공건축
+
+| 시간 | 장소 | 건축가 | 비고 |
+|------|------|--------|------|
+| 09:30~10:50 | 서리대 출발 → King's Cross | | Guildford역→Waterloo→KX 약 80분 |
+| 11:00 | Premier Inn St Pancras 도착 | | 체크인 또는 짐 보관 |
+| 12:00~13:00 | 점심 - Granary Square 인근 | | Caravan, Dishoom 등 £20~30 |
+| 13:10~13:50 | The Standard Hotel | ORMS (2019) | 로비·공용공간 자유관람 |
+| 14:00~15:30 | **(!) Heatherwick Studio 사무소** | | **공식 방문 확정** |
+| 15:40~16:10 | Google 6 Pancras Square | AHMM (2022) | 외관·공공 아트리움 |
+| 16:15~16:45 | Granary Square + CSM | Stanton Williams (2011) | 광장·수경시설 |
+| 16:50~17:20 | St Pancras Gardens | | 빅토리아 시대 공원 |
+| 17:25~17:55 | Gasholders Square | WilkinsonEyre (2019) | 산업유산 주거 전환 |
+| 18:00~18:30 | Coal Drops Yard | Heatherwick Studio (2018) | 리테일 ~21:00 |
+| 18:30~ | 저녁 - Dishoom King's Cross | | £40~50/인, 단체 사전예약 |
+
+### Day 9 - 2026-07-04 (토) | 답사 Day 2: East London · Olympic Park
+**테마**: 문화·스포츠·뮤지엄 클러스터
+
+| 시간 | 장소 | 건축가 | 비고 |
+|------|------|--------|------|
+| 09:00 | 호텔 출발 | | |
+| 10:00~11:00 | Young V&A | AOC + De Matos Ryan (2023) | 무료 |
+| 11:30~11:50 | London Aquatics Centre | Zaha Hadid (2011) | 외관 무료 |
+| 12:00~12:30 | Sadler's Wells East | O'Donnell + Tuomey (2023) | 로비 무료 |
+| 12:30~13:30 | 점심 - Park Kitchen and Bar | | £25~35/인 |
+| 13:40~14:00 | London College of Fashion (UAL) | Allies & Morrison (2023) | 외관·공용공간 |
+| 14:10~15:40 | **(!) V&A East Museum** | Adjaye Associates (2026) | **개관 확인 필요** |
+| 16:00~16:30 | UCL Here East | Lifschutz Davidson Sandilands | |
+| 16:40~18:10 | V&A East Storehouse | Diller Scofidio + Renfro (2024) | 무료, 90분 |
+| 18:30~19:30 | 저녁 - Hackney Wick 인근 | | £40~50/인 |
+| 20:00~ | 호텔 복귀 | | |
+
+### Day 10 - 2026-07-05 (일) | 답사 Day 3: South Bank · Battersea
+**테마**: Tate Modern · 산업유산 재생 · Lift 109
+
+| 시간 | 장소 | 건축가 | 비고 |
+|------|------|--------|------|
+| 09:00 | 호텔 출발 | | |
+| 09:30~10:00 | 밀레니엄 브릿지 | Foster + Partners (2002) | |
+| 10:00~11:30 | Tate Modern | Herzog & de Meuron (2000/2016) | 무료(상설) |
+| 11:45~12:15 | Borough Yards | SPPARC (2021) | |
+| 12:30~13:30 | 점심 - Borough Market | | £25~35/인 |
+| 13:30~13:50 | The Shard 외관 | Renzo Piano (2012) | 전망대 £32 (옵션) |
+| 15:00~15:50 | **(!) Lift 109 배터시 전망대** | WilkinsonEyre | **£21.45, 사전예약** |
+| 15:50~17:20 | Battersea Power Station 내부 | WilkinsonEyre (2022) | 무료, 90분 |
+| 17:30~18:10 | Nine Elms Linear Park | | Gehry·Foster 건물 조망 |
+| 18:15~18:40 | US Embassy London 외관 | KieranTimberlake (2017) | 보안구역 주의 |
+| 18:40~ | 저녁 | | £40~50/인 |
+
+### Day 11 - 2026-07-06 (월) | 답사 Day 4: City → Holborn → Westminster
+**테마**: 역사·현대건축 공존 지역
+
+| 시간 | 장소 | 건축가 | 비고 |
+|------|------|--------|------|
+| 09:00 | 호텔 출발 | | |
+| 09:30~10:00 | 71 Queen Victoria Street | SPPARC (2022) | |
+| 10:05~10:40 | Bloomberg European HQ | Foster + Partners (2017) | Mithraeum 월요일 휴관 |
+| 10:45~11:15 | Ned Hotel (구 미들랜드 은행) | EPR Architects (2017) | 로비 자유관람 |
+| 11:20~12:00 | One New Change 루프탑 | Jean Nouvel (2010) | 무료, St Paul's 조망 |
+| 12:00~13:00 | 점심 | | £25~35/인 |
+| 13:20~14:00 | St Andrew's Church Holborn | DaeWha Kang Design (2022) | 무료, 상설 설치 |
+| 14:10~14:50 | LSE Marshall Building | Grafton Architects (2022) | |
+| 15:00~15:30 | Space House (Covent Garden) | Squire & Partners (2023) | |
+| 15:50~17:20 | National Portrait Gallery | Jamie Fobert (2023) | 무료(상설) |
+| 17:30~18:00 | OWO Pavilion | DaeWha Kang | 외관 |
+| 18:00~ | 저녁 (3옵션) | | A: 웨스트민스터 / B: Covent Garden / C: Mercato Mayfair |
+
+### Day 12 - 2026-07-07 (화) | 답사 Day 5 + 유로스타 파리행
+**테마**: Bermondsey · Barbican · ZHA · Shoreditch
+**(!) 16:46까지 St Pancras 도착 필수 → 유로스타 18:01**
+
+| 시간 | 장소 | 건축가 | 비고 |
+|------|------|--------|------|
+| 08:30 | 호텔 출발 | | |
+| 10:00~11:30 | Appleby Blue Almshouse | Witherford Watson Mann (2024) | £65/인, RIBA 스털링상 |
+| 12:30~13:30 | 점심 - Barbican Centre | | Osteria 또는 Barbican Kitchen |
+| 13:30~14:20 | Barbican Centre 탐방 | Chamberlin, Powell & Bon | 브루탈리즘 |
+| 14:30~16:00 | **(!) ZHA 공식 방문** | Zaha Hadid Architects | **사전 확정 · 고정** |
+| ~~16:10~16:45~~ | ~~Alphabeta Building~~ | | **(!) 유로스타 위해 스킵** |
+| ~~17:00~17:30~~ | ~~Black & White Building~~ | | **(!) 유로스타 위해 스킵** |
+| **16:00** | **ZHA → St Pancras 이동** | | **도보 15분 or 택시 10분** |
+| **16:46** | **(!) St Pancras 도착 마감** | | **게이트 17:31 마감** |
+| **18:01** | **유로스타 출발** | | Coach 10, Seat 63 |
+| **21:29** | **Paris Gare du Nord 도착** | | 파리 숙소 이동 |
+
+> **주의**: ZHA 방문(14:30~16:00) 직후 바로 St Pancras로 이동해야 합니다.
+> ZHA (101 Goswell Rd) → St Pancras: 도보 약 15분 / 택시 약 10분
+> 여유시간 약 46분 확보 가능 (충분)
 
 ### Day 13~ - 2026-07-08 ~ 2026-07-27 | 파리 + 추가 도시 + 뮌헨
 _세부 일정 미정 - 파리 이후 어디를 방문할지 정해주세요!_
+
+> 참고: 7/8은 엄마 IAPS 답사 Day 6 (The Crystal · Royal Victoria Dock → 히드로 출발)
+> 본인은 불참, 파리에서 자유 일정
 
 ### Day 33 - 2026-07-28 (화) | 뮌헨 → 귀국
 - [ ] 뮌헨 공항(MUC) 이동
