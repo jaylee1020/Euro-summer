@@ -142,22 +142,38 @@ _런던 자유 일정 미정_
 
 > 참고: 7/8은 엄마 IAPS 답사 Day 6 (The Crystal → 히드로 출발), 본인은 불참
 
-### Day 13 - 2026-07-08 (수) | 파리 Day 1 (서경 동행)
-- [ ] 파리 자유 일정
+### Day 13 - 2026-07-08 (수) | 파리 Day 1: 클래식→현대 건축 (서경 동행)
+- [ ] 오전: Musée d'Orsay (적응재사용, Museum Pass, 타임슬롯 예약!)
+- [ ] 점심: Bouillon Chartier (1896 Belle Époque 인테리어)
+- [ ] 오후: Bourse de Commerce (안도 다다오) → Pompidou 외관
+- [ ] 저녁: Le Marais 디자인 산책 (Merci, Fleux) → 비스트로
+- [ ] 밤: 세느강 야경 (노트르담)
 - **숙소**: 미정
+- → 세부: activities.md 참조
 
-### Day 14 - 2026-07-09 (목) | 파리 Day 2 (서경 동행)
-- [ ] 파리 자유 일정
+### Day 14 - 2026-07-09 (목) | 파리 Day 2: 현대 건축 마스터피스 (서경 동행)
+- [ ] 오전: Cité de l'Architecture (건축박물관) → 에펠탑 조망
+- [ ] 낮: Fondation Louis Vuitton (Frank Gehry, 사전예약!)
+- [ ] 오후: Institut du Monde Arabe (Jean Nouvel) → Sainte-Chapelle
+- [ ] 밤: 에펠탑 야간 반짝임 (21:00~)
 - **숙소**: 미정
+- → 세부: activities.md 참조
 
-### Day 15 - 2026-07-10 (금) | 파리 → 니스
+### Day 15 - 2026-07-10 (금) | 파리 → 니스, 니스 종일 (서경 동행)
 - [ ] 오전: TGV 파리 → 니스 (미예약)
-- [ ] 오후: 니스 도착, 해변 산책
-- **숙소**: 미정
-
-### Day 16 - 2026-07-11 (토) | 니스 / 모나코 / Èze
-- [ ] 모나코 당일치기 or Èze 마을 방문
+- [ ] 오후: Vieux Nice 구시가지 바로크 건축 + Palais Lascaris (무료)
+- [ ] 오후: Promenade des Anglais → 해변
+- [ ] 저녁: Colline du Château 전경 → Hôtel Negresco 외관
 - **숙소**: 니스 (미정)
+- → 세부: activities.md 참조
+
+### Day 16 - 2026-07-11 (토) | 에즈 오전 → 모나코 오후 (서경 동행)
+- [ ] 오전: 니스 → 에즈 (버스 82번 30분 €1.50), 중세 마을 + Jardin Exotique
+- [ ] 낮: 에즈 → 모나코 (버스 112번 20분), La Condamine 시장 점심
+- [ ] 오후: 왕궁 → 대성당 → 해양박물관 → Monte-Carlo Casino 외관
+- [ ] 저녁: 모나코 → 니스 (TER 기차 20분)
+- **숙소**: 니스 (미정)
+- → 세부: activities.md 참조
 
 ### Day 17 - 2026-07-12 (일) | 니스 → 베네치아
 - [ ] 니스 → 베네치아 항공 (~₩12만, 미예약)
